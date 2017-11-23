@@ -1,0 +1,40 @@
+#inputBox{
+  float:left;
+  border: 1px solid #000;
+  border-radius: 12px;
+  background-color: rgba(0,128,0, .5);
+  width: 40%;
+  padding:25px;
+  font-size: 17px;
+  margin-left: 60%;
+  font-weight: bold;
+}
+#outputBox{
+  float:left;
+  border: 1px solid #000;
+  border-radius: 12px;
+  background-color: rgba(0, 194, 134, .5);
+  width: 40%;
+  padding: 25px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+h2{
+  color: white;
+  padding-left: 515px;
+  font-weight: bold;
+}
+h5{
+  color: white;
+  padding-left: 525px;
+  font-style: italic;
+}
+body{
+  background-color: fff;
+  padding-top: 80px; 
+  margin-bottom: 2cm;  
+}
+#list{
+  padding-bottom: 10%;
+}
