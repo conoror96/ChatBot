@@ -15,14 +15,14 @@ Go must be installed on the users computer https://golang.org/dl/<br />
 Then compile and run the program:<br />
 go build main.go<br />
 go run main.go<br />
-Open webbrowser and run 
+Open web browser and run 
 localhost on port 8080: localhost:8080<br /><br />
 
 
 
 
 
-<b>References:</b><br />
+<b>References and Resources:</b><br />
 https://regexr.com/<br />
 https://www.w3schools.com<br />
 https://getbootstrap.com/<br />
